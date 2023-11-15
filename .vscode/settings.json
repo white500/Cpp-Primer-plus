@@ -4,6 +4,8 @@
         "*.wxss": "css",
         "*.wxs": "javascript",
         "*.udatasmith": "xml",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "climits": "cpp",
+        "ostream": "cpp"
     }
 }

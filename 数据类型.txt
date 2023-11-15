@@ -1,0 +1,20 @@
+C++内置的整型:
+unsigned long
+long
+unsigned int
+int
+unsigned short
+short
+char
+unsigned char
+signed 
+bool
+
+C++11新增的整型：
+unsigned long long
+long long
+
+C++内置的浮点类型：
+float
+double
+long double
