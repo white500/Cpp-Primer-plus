@@ -6,6 +6,7 @@
         "*.udatasmith": "xml",
         "cmath": "cpp",
         "climits": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "ios": "cpp"
     }
 }
