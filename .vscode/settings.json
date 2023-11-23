@@ -8,6 +8,7 @@
         "climits": "cpp",
         "ostream": "cpp",
         "ios": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "xiosbase": "cpp"
     }
 }
