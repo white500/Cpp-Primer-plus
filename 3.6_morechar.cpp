@@ -9,6 +9,7 @@ int main()
 
     cout << "Add one to the character code:" << endl;
     ch = ch + 1;
+    i = ch;
     cout << "The ASCII code for " << ch << " is " << i << endl;
 
     // using the cout.put() number function to display a char
