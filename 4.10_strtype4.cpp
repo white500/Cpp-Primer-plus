@@ -22,6 +22,6 @@ int main()
          << strlen(charr) << endl;
     cout << "Length of string in str after input: "
          << str.size() << endl;
-         
+
     return 0;
 }
