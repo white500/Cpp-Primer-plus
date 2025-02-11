@@ -48,5 +48,6 @@
         "xlocnum": "cpp",
         "xstddef": "cpp",
         "string": "cpp"
-    }
+    },
+    "commentTranslate.browse.mode": "inplace"
 }
