@@ -10,7 +10,8 @@ int main() {
     cout << "p3 is " << p3 << ".\n";
     cout << "p3[1] is " << p3[1] << ".\n";
     p3 = p3 + 1;
-    cout << "Now P3[0] is " << p3[0] << " and ";
+    cout << "Now P3[2] is " << p3[2] << ".\n";
+    cout << "Now P3[0] is " << p3[0] << ".\n";
     cout << "p3[1] is " << p3[1] << ".\n";
     p3 = p3 - 1;
     cout << "p3[1] is " << p3[1] << ".\n";
